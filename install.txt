@@ -1,6 +1,0 @@
-JDK 
-java development kit 
-
-code editor / IDE 
-intelij
-vscode 
