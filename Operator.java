@@ -63,10 +63,6 @@
 // not false ----> true 
 
 
-
-
-
-
 // assignment
 // a = 10
 // b = a 
