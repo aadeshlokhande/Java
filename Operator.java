@@ -86,6 +86,3 @@
 // get 2 values from user and print mod
 // get rad from user and print area of circle 
 // get value from user and print area of square
-
-
-aadesh
