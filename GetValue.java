@@ -77,3 +77,12 @@ public class GetValue
         scanner.close();
     }
 }
+
+// c lang ----> 3500
+// CPP 3500
+// python 5500
+// java 5500
+
+
+IF196159
+2222
