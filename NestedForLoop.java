@@ -522,3 +522,18 @@
 //         }
 //     }
 // }
+
+
+// ======================================================
+// whatsapp formating 
+
+*bold*
+_italic_
+*_aadesh_* 
+~stroke~
+
+- aadesh 
+> aadesh 
+1. hello 
+```code```
+`code`
