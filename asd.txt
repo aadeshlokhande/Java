@@ -1,22 +1,22 @@
 ** 4th class
 -- section a
-hema 
+hema
 rekha
-jaya 
+jaya
 sushma
 -- section b
 ina
-mina 
+mina
 dika
-** 5th class 
+** 5th class
 -- section a
 dholu
 bholu
--- section b 
-chota bhim 
+-- section b
+chota bhim
 chutki
 kaliya
--- section c 
-raju 
+-- section c
+raju
 jaggu
 tuntun mousi
