@@ -1,0 +1,20 @@
+swap 2 numbers 
+a = 10 
+b = 20 
+
+enter a seconds = 4000
+hr = 1 
+min = 6 
+sec = 40 
+
+enter a amount = 7654
+note500 = 15 
+note200 = 0
+note100 = 1 
+note50 = 1 
+coin5 = 0 
+coin2 = 2 
+coin1 = 0
+
+
+
