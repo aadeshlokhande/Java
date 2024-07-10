@@ -100,22 +100,34 @@
 
 // *********************************
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class OperatorDemo
-{
-    public static void main(String[] args)
-    {
-        int a,b,c;
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the value of (a) = ");
-        a = scanner.nextInt();
-        System.out.print("Enter the value of (b) = ");
-        b = scanner.nextInt();
-        c = a + b;
-        System.out.println(a+" + "+b+" = "+c);
-        scanner.close();
-    }
-}
+// public class OperatorDemo
+// {
+//     public static void main(String[] args)
+//     {
+//         int a,b,c;
+//         Scanner scanner = new Scanner(System.in);
+//         System.out.print("Enter the value of (a) = ");
+//         a = scanner.nextInt();
+//         System.out.print("Enter the value of (b) = ");
+//         b = scanner.nextInt();
+//         c = a + b;
+//         System.out.println(a+" + "+b+" = "+c);
+//         scanner.close();
+//     }
+// }
 
 // 10 + 20 = 30 
+
+// *******************************************
+// **************** Homework *****************
+// *******************************************
+
+// get 2 numbers from user and print sub
+// get 2 numbers from user and print multi
+// get 2 numbers from user and print div
+// get 2 numbers from user and print mod 
+// get rad from user and print area of circle 
+// get value and print square
+// get value and print cube
