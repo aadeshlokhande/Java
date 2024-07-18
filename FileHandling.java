@@ -78,26 +78,26 @@ public class FileHandling
 // // **************** Write mode *****************
 
 
-import java.io.FileWriter;   // Import the FileWriter class
-import java.io.IOException;  // Import the IOException class to handle errors
+// import java.io.FileWriter;   // Import the FileWriter class
+// import java.io.IOException;  // Import the IOException class to handle errors
 
-public class FileHandling 
-{
-  public static void main(String[] args) 
-  {
-    try 
-    {
-      FileWriter myWriter = new FileWriter("abc.txt");
-      myWriter.write("Hello");
-      myWriter.close();
-    } 
-    catch (IOException e) 
-    {
-      System.out.println("An error occurred.");
+// public class FileHandling 
+// {
+//   public static void main(String[] args) 
+//   {
+//     try 
+//     {
+//       FileWriter myWriter = new FileWriter("abc.txt");
+//       myWriter.write("Hello");
+//       myWriter.close();
+//     } 
+//     catch (IOException e) 
+//     {
+//       System.out.println("An error occurred.");
 
-    }
-  }
-}
+//     }
+//   }
+// }
 
 
 // public class FileHandling
