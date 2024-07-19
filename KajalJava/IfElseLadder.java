@@ -73,5 +73,5 @@
 // get percentage from user and print grade
 // get number from user and print number of digit
 
-
-
+// a>=0 && a < 10 ---------> 1 
+// a>=10 && a < 100 ---------> 2
