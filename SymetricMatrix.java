@@ -16,7 +16,6 @@
 
 
 import java.util.Scanner;
-
 public class SymetricMatrix
 {
     public static void main(String[] args)
@@ -53,7 +52,6 @@ public class SymetricMatrix
             }
         }
 
-
         if(count==0)
         {
             System.out.println("yes");
@@ -70,3 +68,4 @@ public class SymetricMatrix
 // 10 11 12 13
 // 20 21 22 23
 // 30 31 32 33
+
