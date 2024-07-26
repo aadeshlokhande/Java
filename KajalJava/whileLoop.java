@@ -84,3 +84,13 @@
 
 // get 2 values from user and print addition till answers is zero (0)
 // get values from user till he enter 0 then count all even number 
+
+// enter a number = 45
+// enter a number = 55
+// enter a number = 65
+// enter a number = 44
+// enter a number = 24
+// enter a number = 78
+// enter a number = 0
+
+// total even number = 3
