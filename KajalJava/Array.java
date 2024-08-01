@@ -81,5 +81,53 @@
 
 // create a array and store the value
 // get 10 values from user and print total sum
-// get 10 values from user and count total off numbers
+// get 10 values from user and count total odd numbers
 // get 10 values from user and print them in reverse order
+
+
+// ----------------------------------------------------------
+
+
+// import java.util.Scanner;
+
+// public class Array
+// {
+//     public static void main(String[] args)
+//     {
+//         int index = -1, num;
+//         int a[] = {10,20,30,40,50,60,70,80,90};
+//         Scanner scanner = new Scanner(System.in);
+
+//         System.out.print("enter a number = ");
+//         num = scanner.nextInt();
+
+//         for(int i = 0; i<9; i++)
+//         {
+//             if(num==a[i])
+//             {
+//                 index = i;
+//             }
+            
+//         }
+
+//         System.out.println("index of "+num+" = "+index);
+//         scanner.close();
+//     }
+// }
+
+// ====================================================
+// import java.util.Scanner;
+
+// public class Array
+// {
+//     public static void main(String[] args)
+//     {
+//         int size;
+//         Scanner scanner = new Scanner(System.in);
+//         System.out.print("enter array size = ");
+//         size = scanner.nextInt();
+
+//         int a[] = new int[size];
+//         scanner.close();
+//     }
+// }
