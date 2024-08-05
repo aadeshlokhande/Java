@@ -1,7 +1,5 @@
 // PatternAlpha
 
-
-
 public class PatternAlpha
 {
     public static void main(String[] args)
