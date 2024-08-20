@@ -6,10 +6,10 @@
 // public class typeOfFunction
 // {
 
-//     static int square(int num)
+//     static int abc(int n)
 //     {
 //         int sq;
-//         sq = num * num;
+//         sq = n * n;
 //         return sq;
 //     }
 //     public static void main(String[] args)
@@ -19,8 +19,10 @@
 //         System.out.print("Enter a number = ");
 //         num = scanner.nextInt();
 
-//         a = square(num);
-//         System.out.println(a);
+//         // a = abc(num);
+//         // System.out.println(a);
+
+//         // System.out.println(abc(num));
 
 //     }
 // }

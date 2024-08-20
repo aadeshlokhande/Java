@@ -17,7 +17,6 @@ import java.util.Scanner;
          x = x - y; //  20
          
          System.out.println("swapping numbers: "+x +"  "+ y);  
-         
-       scanner.close();
+          scanner.close();
 }
 }
